@@ -10,8 +10,6 @@ I'm a programming enthusiast at the start of my coding journey, eager to learn a
 
 🤔 I’m looking for help with: Tips for learning new languages, best practices for coding efficiently, and understanding the basics of cloud and data modeling.
 
-💬 Ask me about: My journey into programming as a beginner! I’m learning every day and would be happy to share my experience with anyone else starting out.
-
 📫 How to reach me: Right here on GitHub! I’m also open to connecting on other platforms if you want to exchange tips and tricks.
 
 ⚡ Fun fact: My favourite sport is basketball and i play for the 2nd strongest team in my city in the Best league of my Country.
